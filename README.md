@@ -1,6 +1,7 @@
 CacheTool - Manage cache in the CLI
 ===================================
 
+[![Build Status](https://status.continuousphp.com/git-hub/continuousdemo/cachetool?token=72ffc8bf-bfb7-41d0-98d5-72331c39557c)](https://continuousphp.com/git-hub/continuousdemo/cachetool)
 [![Build Status](https://img.shields.io/travis/gordalina/cachetool.svg)](https://travis-ci.org/gordalina/cachetool)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/gordalina/cachetool.svg)](https://scrutinizer-ci.com/g/gordalina/cachetool/?branch=master)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/gordalina/cachetool.svg)](https://scrutinizer-ci.com/g/gordalina/cachetool/?branch=master)
